@@ -45,7 +45,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mrfaheem4&theme=dracula&hide_border=false&border_radius=10" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Mrfaheem4&theme=dracula&no-bg=false&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
 </div>
 
 ###
