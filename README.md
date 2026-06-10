@@ -1,9 +1,9 @@
 <br clear="both">
 
-<h1 align="center">Hi There, I'm Faheem! 👋</h1>
+<h1 align="center">Hi There, I'm Faheem! </h1>
 
 <p align="center">
-  <strong>Engineering Student | Frontend Developer | 3D Web Enthusiast</strong>
+  <strong>Engineering Student | Frontend Developer | </strong>
 </p>
 
 <div align="center">
