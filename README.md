@@ -14,13 +14,6 @@
 
 ###
 
-<h3 align="center"> Featured Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/Mrfaheem4/Ignition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrfaheem4&repo=Ignition&theme=dracula&border_radius=10" alt="Ignition Project Card" />
-  </a>
-</div>
 
 <p align="center">
   <strong>Ignition:</strong> A premium 3D web-based car showroom built with <strong>React, Three.js, and GSAP</strong>. 
