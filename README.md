@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,js,html,tailwind,sass,cpp,vite,ps," alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,js,html,tailwind,sass,cpp,ps," alt="tech stack" />
 </div>
 
 ###
