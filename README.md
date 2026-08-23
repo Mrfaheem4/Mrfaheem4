@@ -15,12 +15,6 @@
 ###
 
 
-<p align="center">
-  <strong>Ignition:</strong> A premium 3D web-based car showroom built with <strong>React, Three.js, and GSAP</strong>. 
-  <br /> 
-  <a href="https://ignition-xi.vercel.app/"> View Live Demo</a>
-</p>
-
 ###
 
 <div align="center">
