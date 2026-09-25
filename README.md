@@ -3,7 +3,7 @@
 <h1 align="center">Hi There, I'm Faheem! </h1>
 
 <p align="center">
-  <strong>Engineering Student | Frontend Developer | </strong>
+  <strong> Software Engineering Student </strong>
 </p>
 
 <div align="center">
